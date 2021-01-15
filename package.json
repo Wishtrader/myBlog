@@ -1,0 +1,9 @@
+{
+  "name": "myblog",
+  "version": "1.0.0",
+  "description": "Blog on Vue.js",
+  "main": "index.js",
+  "repository": "https://github.com/Wishtrader/myBlog.git",
+  "author": "Andrei Kamarou",
+  "license": "MIT"
+}
